@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi, I'm Ahmed 👋
 
-<!--
-**arashad26/arashad26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate full-stack developer from Cairo, Egypt, currently leveling up my skills through Scrimba's Fullstack Developer Path. From crafting pixel-perfect UIs with React to building secure backends with Node.js and MongoDB, I love turning creative ideas into functional web apps that solve real-world problems.
 
-Here are some ideas to get you started:
+## 🌱 Currently Learning
+- Advanced React concepts like hooks, state management, and component lifecycle.
+- Backend development with Express.js, APIs, and MongoDB.
+- Full-stack integration, deployment with tools like Vercel/Netlify, and best practices for scalable apps.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech Stack
+- **Frontend:** HTML5, CSS3, JavaScript (ES6+), React.js
+- **Backend:** Node.js, Express.js
+- **Databases:** MongoDB (learning SQL too!)
+- **Tools & Others:** Git, GitHub, VS Code, RESTful APIs, Responsive Design
+
+## 📈 My GitHub Stats
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
+
+## 🔗 Let's Connect
+- [LinkedIn](https://www.linkedin.com/in/yourprofile) (Coming soon!)
+- [Portfolio Website](https://yourportfolio.com) (Coming soon!)
+- Email: ahm.rashad.26@gmail.com
+
+Feel free to reach out if you want to collaborate on a project or chat about full-stack dev!
+
+---

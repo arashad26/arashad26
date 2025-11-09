@@ -18,7 +18,7 @@ I'm a passionate full-stack developer from Cairo, Egypt, currently leveling up m
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
 
 ## 🔗 Let's Connect
-- [LinkedIn](https://www.linkedin.com/in/yourprofile) (Coming soon!)
+- [LinkedIn]([https://www.linkedin.com/in/yourprofile](https://www.linkedin.com/in/ahmed-rashad-8093b1398/)) (Coming soon!)
 - [Portfolio Website](https://yourportfolio.com) (Coming soon!)
 - Email: ahm.rashad.26@gmail.com
 
